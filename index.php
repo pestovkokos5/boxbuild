@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!--test-->
 <html lang="ru">
   <head>
     <title>home page</title>
@@ -378,7 +379,7 @@
                                               coords: [55.8545, 38.4418],
                                               locationUrl: '/arenda-bytovok-v-noginske/',
                                           },
-              
+
                                       ];
             </script>
             <div class="main_map-links">
